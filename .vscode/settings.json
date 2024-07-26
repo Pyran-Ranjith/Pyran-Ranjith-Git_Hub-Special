@@ -22,5 +22,6 @@
         "titleBar.activeForeground": "#e7e7e7",
         "titleBar.inactiveBackground": "#00800099",
         "titleBar.inactiveForeground": "#e7e7e799"
-    }
+    },
+    "cmake.sourceDirectory": "E:/Users/Public/Github_2024/Pyran-Ranjith-Git_Hub-Special/Firebase/01-Flutter-Firebase-Modal_A/windows/flutter"
 }
